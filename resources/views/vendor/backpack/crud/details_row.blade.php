@@ -1,0 +1,1 @@
+<div style="padding:8px 8px 8px 20px;">{{ $totalPeserta }}.</div>
